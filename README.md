@@ -1,9 +1,9 @@
 Hi, There,
 
 I'm Onur DÖKER
-I am currently learning **Java, React and Node.js** and also interested in **Web Development**.
-My Goal is to Contribute to as many **open source project** as possible.
-I love to create different types of **contents**.
+I am currently learning **Java, React and Node.js** and also interested in **Web Development**. <br>
+My Goal is to Contribute to as many **open source project** as possible. <br>
+I love to create different types of **contents**. <br>
 
 ![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurdoker&show_icons=true&theme=tokyonight&hide_border=true) 
 
