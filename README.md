@@ -10,7 +10,7 @@
 
 <img src="https://wakatime.com/share/@094abaf6-7890-4b1e-9904-fa534d248a19/a5c79a0d-bdd6-47ca-948f-eb0dc6394906.svg" />
 </a>
-            <img src="https://github-profile-trophy.vercel.app/?username=onurdoker&row=1&column=7&theme=darkhub" alt="ilkerthedev" />
+            <img src="https://github-profile-trophy.vercel.app/?username=onurdoker&row=1&column=7&theme=darkhub" alt="onurdoker" />
         </a>
     </div>
     
