@@ -17,7 +17,9 @@ I love to create different types of **contents**. <br>
 I can work several languages: <br>
 
 <div>
+  <img alt="" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html5-original-wordmark.svg">
 </div>
+
 ![My Skills](https://skillicons.dev/icons?i=html,css,java,js,nodejs,php,react,postgres,mysql,laravel,postman,vscode,py,matlab,figma)
 
