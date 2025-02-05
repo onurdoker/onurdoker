@@ -13,9 +13,9 @@ I love to create different types of **contents**. <br>
 </div>
 <br>
 <br>
-**Development Environment**
+<strong>Development Environment</strong>
 <br> 
-<div align="center" sytle="display:flex;gap: 15px">
+<div sytle="display:flex;gap: 15px">
   <img alt="" title="Visual Code Studio" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img alt="" title="Laravel" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img alt="" title="Postman" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
@@ -25,9 +25,9 @@ I love to create different types of **contents**. <br>
 </div>
 <br>
 <br>
-**Languages:**
+<strong>Languages:</strong>
 <br>
-<div align="center" sytle="display:flex;gap: 15px">
+<div sytle="display:flex;gap: 15px">
   <img alt="" title="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="" title="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="" title="Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -38,13 +38,13 @@ I love to create different types of **contents**. <br>
 </div>
 <br>
 <br>
-**Frameworks:**
-<div align="center" sytle="display:flex;gap: 15px">
+<strong>Frameworks:</strong>
+<div sytle="display:flex;gap: 15px">
   <img alt="" title="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br>
 <br>
-**Learning**
+<strong>Learnings:</strong>
 <br>
 <div align="center" sytle="display:flex;gap: 15px">
   <img alt="" title="Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -52,8 +52,8 @@ I love to create different types of **contents**. <br>
 </div>
 <br>
 <br>
-**Hobbies**
+<strong>Hobbies:</strong>
 <br>
-<div align="center" sytle="display:flex;gap: 15px">
+<div sytle="display:flex;gap: 15px">
   <img alt="" title="Maya" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg">
 </div>
