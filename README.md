@@ -44,16 +44,16 @@ I love to create different types of **contents**. <br>
 </div>
 <br>
 <br>
-<strong>Learnings:</strong>
-<br>
-<div align="center" sytle="display:flex;gap: 15px">
-  <img alt="" title="Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="" title="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-<br>
-<br>
 <strong>Hobbies:</strong>
 <br>
 <div sytle="display:flex;gap: 15px">
   <img alt="" title="Maya" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg">
+</div>
+<br>
+<br>
+<strong>Learnings:</strong>
+<br>
+<div sytle="display:flex;gap: 15px">
+  <img alt="" title="Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="" title="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
