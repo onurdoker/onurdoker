@@ -7,10 +7,10 @@ I love to create different types of **contents**. <br>
 
 <div align="center">
   <a href="https://github.com/onurdoker">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onurdoker&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdoker&layout=compact&langs_count=10&theme=onedark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onurdoker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdoker&layout=compact&langs_count=10&theme=tokyonight">
   </a>
-</div>div>
+</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=onurdoker&theme=tokyonight&hide_border=true&border_radius=4,5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
