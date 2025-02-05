@@ -5,7 +5,9 @@ I am currently learning **Java, React and Node.js** and also interested in **Web
 My Goal is to Contribute to as many **open source project** as possible. <br>
 I love to create different types of **contents**. <br>
 
-![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurdoker&show_icons=true&theme=tokyonight&hide_border=true) 
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=onurdoker&show_icons=true&theme=tokyonight&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdoker&layout=compact&langs_count=10&theme=onedark">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=onurdoker&theme=tokyonight&hide_border=true&border_radius=4,5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
