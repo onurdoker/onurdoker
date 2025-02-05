@@ -11,10 +11,10 @@ I love to create different types of **contents**. <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdoker&layout=compact&langs_count=10&theme=tokyonight">
   </a>
 </div>
-
+<br>
+<br>
 
 I can work several languages: <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,nodejs,php,react,postgres,mysql,laravel,postman,vscode,py,matlab,figma)]
-(https://skillicons.dev)
+[My Skills](https://skillicons.dev/icons?i=html,css,java,js,nodejs,php,react,postgres,mysql,laravel,postman,vscode,py,matlab,figma)
 
