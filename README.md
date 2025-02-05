@@ -16,5 +16,5 @@ I love to create different types of **contents**. <br>
 
 I can work several languages: <br>
 
-[[My Skills](https://skillicons.dev/icons?i=html,css,java,js,nodejs,php,react,postgres,mysql,laravel,postman,vscode,py,matlab,figma)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,nodejs,php,react,postgres,mysql,laravel,postman,vscode,py,matlab,figma)]
 
