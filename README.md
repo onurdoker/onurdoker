@@ -8,7 +8,7 @@ I bring strong analytical thinking, problem-solving, and a collaborative mindset
 
 <div align="center">
   <a href="https://github.com/onurdoker">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onurdoker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onurdoker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&count_private=true&include_all_commits=true&hide_title=true" alt="Onur's GitHub Stats" /"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdoker&layout=compact&langs_count=10&theme=tokyonight">
   </a>
 </div>
