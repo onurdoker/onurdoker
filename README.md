@@ -4,7 +4,15 @@ I'm Onur DÖKER, a Chemical Engineer with a PhD and 25 years of experience, tran
 
 As a passionate learner, I'm also exploring software development, currently honing my skills in JavaScript, Node.js, and React. My interests lie in web development, and I aim to contribute to open-source projects while creating impactful solutions. <br>
 
-I bring strong analytical thinking, problem-solving, and a collaborative mindset to dynamic environments, always striving to deliver value through innovation and continuous learning.<br>
+I bring strong analytical thinking, problem-solving, and a collaborative mindset to dynamic environments, always striving to deliver value through innovation and continuous learning.<be>
+
+Access my data analysis projects on GitHub via the link below.<br>
+[https://github.com/orgs/Projects-of-Data-Analysis/repositories](https://github.com/orgs/Projects-of-Data-Analysis/repositories)
+
+Access my fullstack web designer projects on GitHub via the link below.<br>
+[https://github.com/orgs/Project-of-FullStack-Web-Design/repositories](https://github.com/orgs/Project-of-FullStack-Web-Design/repositories)
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/onurdoker">
