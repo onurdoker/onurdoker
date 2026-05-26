@@ -1,59 +1,72 @@
-### Hi there
+<h1 align="center">Hi 👋, I'm Onur DÖKER</h1>
+<h3 align="center">Data Scientist | Software Developer | Ex-Academic with 25+ Years of Engineering Experience</h3>
 
-I'm Onur DÖKER, a Chemical Engineer with a PhD and 25 years of experience, transitioning into data analytics. I specialize in extracting insights from complex data using **Python, SQL, MATLAB**, and **Tableau**, with a focus on data-driven decision-making.<br>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=onurdoker&label=Profile%20views&color=0e75b6&style=flat" alt="onurdoker" /> 
+</p>
 
-As a passionate learner, I'm also exploring software development, currently honing my skills in JavaScript, Node.js, and React. My interests lie in web development, and I aim to contribute to open-source projects while creating impactful solutions. <br>
+### 🚀 About Me
+- 🔭 I’m currently working on **Local LLMs (MLX/Ollama), Data Analytics, and Full-Stack Web Applications**
+- 🌱 I’m continuously exploring **Machine Learning, Edge AI, and Advanced React/Node.js patterns**
+- 💬 Ask me about **Python, R, SQL, Data Visualization, and Chemical Engineering Domain Knowledge**
+- ⚡ Fun fact: **I leverage my 25 years of analytical engineering experience to build data-driven software solutions.**
+- 🖥️ **Dev Environment:** Mac Mini M4 (24GB) | Zed & Positron | Local AI (Gemma, Qwen via Ollama)
 
-I bring strong analytical thinking, problem-solving, and a collaborative mindset to dynamic environments, always striving to deliver value through innovation and continuous learning.
-
-
-
-## IDE
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Positron](https://img.shields.io/badge/Positron-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
-
-## Skills
-- ### Languages
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-- ### Libraries
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-  ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🤝 Connect with me:
+<p align="left">
   
-- ### Databases
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odoker@gmail.com)
+</p>
 
-- ### Data Visualization
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+---
 
-- ### Frameworks
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+### 🛠️ Tech Stack
 
+**📊 Data Science, ML & Analytics:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-## GitHub Analytics
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=onurdoker&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdoker&layout=compact&theme=dark&hide_border=true"/> 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onurdoker&theme=dark)
+**💻 Web & Software Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
+**⚙️ Tools & Environment:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Zed-084365?style=for-the-badge&logo=zed&logoColor=white" />
+  <img src="https://img.shields.io/badge/Positron-4A90E2?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple_M4-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-## Portfolio Website
-[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://hexagonal-wolfberry-075.notion.site/Hey-I-m-Onur-DOKER-1f05c987998580378ad6d1f1a8510e65)
-[![Static Badge](https://img.shields.io/badge/Analysis-%20?style=for-the-badge&label=Data&labelColor=dark&color=blue)](https://github.com/Projects-of-Data-Analysis)
+---
 
+### 📊 GitHub Stats
 
-## Contact
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odoker@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odoker) 
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=onurdoker&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> 
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurdoker&theme=tokyonight&hide_border=true" alt="onurdoker streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onurdoker&theme=tokyonight" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdoker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+</p> -->
