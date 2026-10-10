@@ -1,4 +1,4 @@
-# Hi, I'm Onur Doker 👋
+# Hi, I'm Onur DOKER 👋
 
 ### 🚀 Data Analyst | Software Developer | Chemical Engineer
 
@@ -36,7 +36,7 @@ I bridge the gap between **rigorous engineering principles** and **modern softwa
 
 - 🎓 **Academic Root:** Former academic with a deep passion for research and continuous learning.
 - 💻 **Gear:** Powering my workflow with Mac mini M4 (24GB Unified Memory).
-- 🛠️ **Tools:** VS Code, Positron, Claude Code.
+- 🛠️ **Tools:** VS Code, Positron
 
 ---
 
